@@ -5,3 +5,4 @@ Visualization Demo:
 https://xinzewang.github.io/Intersection-Analysis/
   
 Project Poster:  
+<img src="https://github.com/AlanJYLi/project_intersection_congestion/blob/master/Poster%20pic.png" width="633" >
